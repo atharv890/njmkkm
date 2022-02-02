@@ -1,0 +1,12 @@
+#image{
+    height:100px;
+}
+.image1{
+    height:300px;
+}
+body
+{
+background-image:radial-gradient(lightpink,lightyellow,rgb(197, 129, 129))
+
+
+}
